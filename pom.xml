@@ -17,6 +17,7 @@
         <module>app-env-old</module>
         <module>app-env-new</module>
     </modules>
+    <!--
     <build>
         <plugins>
             <plugin>
@@ -40,4 +41,5 @@
             </plugin>
         </plugins>
     </build>
+    -->
 </project>
